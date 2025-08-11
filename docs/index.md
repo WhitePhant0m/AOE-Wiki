@@ -7,7 +7,7 @@
 
 This is the official wiki for packs made by the AOE team.
 
-Here you can find information about our packs, tips, and how-to's for in-game and out.
+Here you can find information about our packs, tips, and how-to's for in-game and out..
 
 ---
 
